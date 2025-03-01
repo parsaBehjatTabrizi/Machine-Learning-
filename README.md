@@ -31,3 +31,5 @@ Before running any notebook, make sure you have the following installed:
 - Required ML libraries:  
   ```bash
   pip install numpy pandas scikit-learn matplotlib tensorflow keras
+
+[![GitHub stars](https://img.shields.io/github/stars/your-username/machine-learning?style=social)](https://github.com/your-username/machine-learning)
