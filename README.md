@@ -18,9 +18,7 @@ This repository contains different files covering **various machine learning mod
 | `naive_bayes.ipynb` | Naïve Bayes | A probabilistic classifier based on Bayes’ Theorem. |
 | `k_means.ipynb` | K-Means Clustering | An unsupervised learning algorithm for clustering data. |
 | `neural_networks.ipynb` | Artificial Neural Networks (ANN) | Introduction to deep learning and neural networks. |
-| `cnn.ipynb` | Convolutional Neural Networks (CNN) | Used for image classification and computer vision tasks. |
-| `rnn.ipynb` | Recurrent Neural Networks (RNN) | Time-series and sequence modeling. |
-| `transformers.ipynb` | Transformers | Advanced NLP models like BERT and GPT. |
+
 
 ---
 
